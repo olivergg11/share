@@ -13,9 +13,9 @@ client.on("guildMemberAdd", member => {
 
 PLZ JOIN AND SEND SERVER YOU WANT INVITE FOR IT PLZ JOIN
 ============================
-https://discord.gg/8A5ymU
+https://discord.gg/uUdbru
 ***
 -------------------------------------`) 
 }).catch(console.error)
 })
-client.login("NTEyNzc2NjE4OTQzNTc4MTIz.Ds-YAA.-L_iILPkXM9K0fccO5ocBmc7tMg");
+client.login("NTE0OTE5OTQxMzA1MTM5MjAx.Dt8UwQ.fEMeS-rZj7rfCxPXyQUtakWEmYE");
